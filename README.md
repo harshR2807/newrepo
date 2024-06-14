@@ -1,3 +1,3 @@
 # newrepo
-this is my Git Repo.<br>
+This is my Git Repo.<br>
 Author : Harsh Raj
