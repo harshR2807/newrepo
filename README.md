@@ -1,3 +1,3 @@
 # newrepo
-this is my first Git Repo.<br>
-Author : Harsh
+this is my Git Repo.<br>
+Author : Harsh Raj
